@@ -1,7 +1,7 @@
 Datacube.Online 
 =======================================
 
-This is the repisotry for the Virginia Open Datacube Research Implementation.
+This is the repository for the Virginia Open Datacube Research Implementation.
 
 It is currently being hosted by `Read the Docs` at `https://docs.datacube.online <https://aws-ccoe-wesbite.readthedocs.io/en/latest/?>`_
 
