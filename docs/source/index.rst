@@ -6,7 +6,6 @@ Welcome to Datacube.Online!
 The Virginia Open Datacube is a custom deployment of the Open Datacube utilizing `the Littlest JupyterHub <https://tljh.jupyter.org/en/latest/>` which pulls data from multiple sources, including the `AWS Registry of Open Data https://registry.opendata.aws/` and offers a powerful computational environment for performing time-series analyses from spatiotemporal datasets, especially those collected by various public satellites.
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
@@ -19,8 +18,3 @@ Contents
 
    getting-started
    usage
-   data products
-   utilities
-   sample notebooks
-   collaboration and sharing
-   TEST DOCUMENTATION UPDATE
