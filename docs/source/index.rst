@@ -17,7 +17,7 @@ Contents
 
 .. toctree::
 
-   getting started
+   getting-started
    usage
    data products
    utilities
